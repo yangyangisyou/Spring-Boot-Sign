@@ -1,0 +1,25 @@
+@charset "UTF-8";
+body {
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.carousel-picture{
+	width: 800px;
+	height: 400px;
+}
+
+.box{
+	display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.row-style{
+	display:flex;
+    align-items:center;
+    justify-content:center;
+}
